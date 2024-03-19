@@ -185,12 +185,12 @@
     >
       <p class="text-gray-300">
         Tämä sivusto käyttää pääsykoodia, jotta vähennettäisiin random ihmisten
-        pääsyä tänne. Tätä tehdään, koska tällä hetkellä et voi saada muita
-        listoja kuin Kangasalan koulujen, joka johtaisi siihen, että kuka
-        tahansa voisi selvittää kuka tämän nettisivun omistaa ja täten myös
-        tietää että oletetettavasti hän asuu kaupungissa Kangasala.
-        Pääsykoodilla myös vähennetään Jamixin APIn käyttämistä, jolloin se
-        toimii paremmin ja nopeammin
+        pääsyä tänne. Tätä tehdään, koska tällä hetkellä et voi saada muuta kuin
+        vain yhden kaupungin koulujen, joka johtaisi siihen, että kuka tahansa
+        voisi selvittää kuka tämän nettisivun omistaa ja täten myös tietää että
+        oletetettavasti hän asuu kaupungissa (average). Pääsykoodilla myös
+        vähennetään Jamixin APIn käyttämistä, jolloin se toimii paremmin ja
+        nopeammin
       </p>
       <button
         class="bg-[#0a0a0a] absolute right-2 bottom-2"
